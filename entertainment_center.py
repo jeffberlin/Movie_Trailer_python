@@ -37,6 +37,6 @@ step_brothers = media.Movie("Step Brothers",
 	"https://www.youtube.com/watch?v=CewglxElBK0")
 
 movies = [dodgeball, dumb_and_dumber, black_hawk_down, hangover, waterboy, step_brothers]
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 
 #print(media.Movie.VALID_RATINGS)
