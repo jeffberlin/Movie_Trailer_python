@@ -6,7 +6,7 @@ import media
 dodgeball = media.Movie(
     "Dodgeball",
     "A true underdog story",
-    "http://static.rogerebert.com/uploads/movie/movie_poster/"
+    "https://static.rogerebert.com/uploads/movie/movie_poster/"
     "dodgeball-a-true-underdog-story-2004/"
     "large_iYrYVlNOZdPAWL7GXRCLMwxA9yG.jpg",  # noqa
     "https://www.youtube.com/watch?v=W-XbDZUnUmw")
@@ -17,7 +17,7 @@ dumb_and_dumber = media.Movie(
     "Dumb and Dumber",
     "Two friends who try to return someone's property, "
     "but find themselves in a sticky situation",
-    "http://t0.gstatic.com/images?q=tbn:"
+    "https://t0.gstatic.com/images?q=tbn:"
     "ANd9GcRfKxcLRaftGDJ-q6WataYprMWOROBAhNPxuqjCUL8vaCA6ZaW1",  # noqa
     "https://www.youtube.com/watch?v=l13yPhimE3o")
 # print(dumb_and_dumber.storyline)
@@ -44,7 +44,7 @@ waterboy = media.Movie(
     "The Waterboy",
     "A waterboy for a college football team discovers he has a unique "
     "tackling ability and becomes a member of the team",
-    "http://games.lukky.us/wp-content/uploads/"
+    "https://games.lukky.us/wp-content/uploads/"
     "imdbcache/tt0120484.jpg",  # noqa
     "https://www.youtube.com/watch?v=z8yv9eq5s14")
 
